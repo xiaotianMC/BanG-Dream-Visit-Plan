@@ -2,7 +2,8 @@
 更新时间：2026年8月10日<br>
 创作者：麦块晓天
 ## 前言
-
+本巡礼包旨在为 BanG Dream! 系列圣地巡礼提供一份较为完整的路线参考。**基于 Anitabi** 收录的大量圣地点位进行筛选，选取其中具有较高巡礼价值的点位，并结合动画正片及相关内容中的其他取景地点进行补充整理。同时根据实际地理位置、交通条件以及作品关联度重新规划路线，补充注释，让即使是首次前往日本进行圣地巡礼的邦友，也能更加轻松地完成巡礼。<br>
+本计划仍处于持续完善阶段，部分点位的拍摄可行性、交通信息及备注内容可能会继续调整。欢迎提供补充信息或修正建议，共同完善 BanG Dream! 圣地巡礼资料。
 ## 配套MiriaGo巡礼包
 本巡礼包基于[MiriaGo](https://github.com/BilyHurington/MiriaGo)软件制作
 ### 说明
@@ -70,7 +71,7 @@
 <tr><td>28</td><td>表参道—原宿（两片区可选）</td><td>√</td><td>仅原宿</td><td>仅表参道</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>29</td><td>羽田机场（可选）</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>30</td><td>下北泽—（可选）三轩茶屋—（可选）驹泽</td><td>√</td><td>仅三轩茶屋&amp;驹泽</td><td>仅下北泽</td><td>×</td><td>-</td><td>-</td></tr>
-<tr><td>31</td><td>成城学园前—和泉多摩川</td><td>√</td><td>和泉多摩川</td><td>和泉多摩川</td><td>×</td><td>-</td><td>-</td></tr>
+<tr><td>31</td><td>成城学园前—和泉多摩川</td><td>√</td><td>仅和泉多摩川</td><td>仅和泉多摩川</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>32</td><td>安房鸭川</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>B</td><td>逗子—叶山（描绘未来MV）</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>33</td><td>名古屋（若叶睦家）</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
