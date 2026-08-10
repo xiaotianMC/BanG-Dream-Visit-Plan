@@ -1,26 +1,30 @@
 # BanG-Dream-Visit-Plan
+本巡礼包基于[MiriaGo](https://github.com/BilyHurington/MiriaGo)软件制作
 <table>
 <thead>
 <tr>
+<th colspan="2">点位信息</th>
+<th colspan="5">正片巡礼</th>
+<th colspan="1">其他巡礼</th>
+</tr>
+<tr>
 <th rowspan="3">编号</th>
 <th rowspan="3">片区名称</th>
-<th colspan="6">巡礼包</th>
+<th colspan="4">日本国内版</th>
+<th>海外版</th>
+<th rowspan="2">MyGO!!!!!MV补充包</th>
 </tr>
 <tr>
-<th colspan="4">正片巡礼</th>
-<th colspan="2">其他巡礼</th>
-</tr>
-<tr>
-<th>全系列（日本国内版）</th>
-<th>老邦七团（日本国内版）</th>
-<th>MyGO!!!!!&amp;Ave Mujica（日本国内版）</th>
-<th>仅梦限大版</th>
-<th>非日本巡礼补充包</th>
-<th>MyGO!!!!!音乐MV巡礼补充包</th>
+<th>全系列</th>
+<th>老邦七团</th>
+<th>MyGO!!!!!&amp;Ave Mujica</th>
+<th>梦限大</th>
+<th>海外补充包</th>
 </tr>
 </thead>
+
 <tbody>
-<tr><td>1&</td><td>永青文库周边</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
+<tr><td>1</td><td>永青文库周边</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>2</td><td>江户川公园</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>3</td><td>地藏通商店街</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>4</td><td>花咲川—都电早稻田</td><td>√</td><td>√</td><td>部分包含</td><td>×</td><td>-</td><td>-</td></tr>
@@ -60,10 +64,12 @@
 <tr><td>36</td><td>仙台（Mujica巡演地点）</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>37</td><td>英国・伦敦</td><td>-</td><td>-</td><td>-</td><td>-</td><td>√</td><td>-</td></tr>
 <tr><td>38</td><td>美国・关岛</td><td>-</td><td>-</td><td>-</td><td>-</td><td>√</td><td>-</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>制作中……</td></tr>
-<tr><td>图例</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>√</td><td>包含该片区</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>×</td><td>不包含该片区</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>-</td><td>与该片区无关（也是不包含的一种）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</tbody>
+<tr><tr><td colspan="8" style="text-align:center;">制作中……</td></tr>
 </table>
+
+### 图例
+| 标记 | 含义 |
+| --- | --- |
+| √ | 包含该片区 |
+| × | 不包含该片区 |
+| - | 与该片区无关（也是不包含的一种） |
