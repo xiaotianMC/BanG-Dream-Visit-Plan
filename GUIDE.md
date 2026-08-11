@@ -18,14 +18,11 @@
 1. 打开支持 Skill 的 ChatGPT 网页端或 App。
 2. 提供 Skill 仓库：
    https://github.com/BilyHurington/miriago-route-planner-skill
-3. 提供本仓库：
-   https://github.com/xiaotianMC/BanG-Dream-Visit-Plan
-4. 说明希望使用 `plan-miriago-route` Skill，并选择需要的巡礼包。使用示例：
+3. 说明希望使用 `plan-miriago-route` Skill，并**手动上传**下载的巡礼包。使用示例：
 
         https://github.com/BilyHurington/miriago-route-planner-skill
         请读取这个仓库并使用其中的 plan-miriago-route Skill，
-        并读取https://github.com/xiaotianMC/BanG-Dream-Visit-Plan
-        仓库中的'.sjhplan'巡礼包文件，与README.md和GUIDE.md
+        并读取我手动上传的README、GUIDE、.sjhplan文件
         为我制作一份可导入MiriaGo 的巡礼计划。开始时先询问所有必要信息，并在每个确认节点等待我的回复。
 
 ## 巡礼包配套行程
