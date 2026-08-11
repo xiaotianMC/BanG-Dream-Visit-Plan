@@ -23,6 +23,8 @@
 | 已完成内容 | 老邦七团片区规划、点位分类<br>MyGO!!!!!&Ave Mujica大部分点位片区规划、点位分类<br>梦限大点位片区划分 |
 | 待完成内容 | MyGO!!!!!&Ave Mujica少量点位拍摄可行性验证与备注完善<br>梦限大相关点位分类<br>部分点位参考图更换 |
 ### 下载方式
+- 全系列巡礼包
+- 海外补充包
 ### 巡礼包详情
 #### 正文表格
 <table>
@@ -108,6 +110,7 @@
 |---|---|
 | Bilibili@ホシほし | 老邦巡礼地图与实际点位资料 |
 | Bilibili@心危--- | 小豆岛交通信息与实际点位资料 |
+| Bilibili@橡树酱っ | 逗子—叶山点位的细节信息 |
 | Feej | 逗子—叶山交通信息与实地资料 |
 | 归路十里 | 逗子—叶山交通信息与实地资料 |
 | 群青Kira | 逗子—叶山交通信息与实地资料 |
@@ -115,6 +118,15 @@
 [从零开始的赴日现地live攻略](https://arisa114514.feishu.cn/wiki/QCNOwAGPxiAE1Ak39BIcRlGbnjh)<br>
 虽然是现地live攻略，但是这份攻略在签证办理、入境流程、日本交通方面等比较全面，对日本旅行有困惑的邦友可以看一下。
 ## 对路线规划&点位拍摄有帮助的资料
+- **老邦七团巡礼**[Bilibili@ホシほし](https://www.bilibili.com/video/BV1rHMtznELC/)<br>
+巡礼点位较全，提供 Google Maps 标记及动画实景对比图。
+- **MyGO!!!!!巡礼**[Bilibili@橡树酱っ](https://www.bilibili.com/video/BV1yf3qzoE95/)<br>
+巡礼点位较全，提供详细的行程规划与拍摄安排，对提升拍摄还原度具有较高参考价值。
+  > 本巡礼包虽尽量考虑动画场景时间安排，但拍摄还原度相较于该视频仍有一定差距。若希望最大程度还原动画画面，建议结合该视频中的时间规划进行调整。
+- **Mujica小豆岛巡礼**[Bilibili@心危---](https://www.bilibili.com/video/BV1rJ396EEWr/)<br>
+巡礼点位较全，提供了可参考的交通安排和实景对比图。
+- **描绘未来巡礼**[Bilibili@橡树酱っ](https://www.bilibili.com/video/BV1E4GN6VEJm/)<br>
+巡礼点位全面，提供了详细的拍摄指南，对提升拍摄还原度具有较高参考价值。
 ## 巡礼包配套行程
 ### 说明
 - 参考行程采用**长住同一地点**的住宿策略，主要考虑到减少换宿频率、提升巡礼便利性。若您行李较少，或能够接受携带行李移动，可结合实际行程调整住宿安排，以降低整体交通成本。
@@ -138,7 +150,7 @@
 [都电一日乘车券官网](https://www.kotsu.metro.tokyo.jp/toden/fare/otoku_toden_oneday.html)<br>
 - 如果你当天还要乘坐乘坐都营公交、都营地铁等**共两回及以上**，购买**都营全线一日乘车券**（700円）会更划算。<br>
 [都营全线一日乘车券（都営まるごときっぷ）官网](https://www.kotsu.metro.tokyo.jp/pickup_information/otoku_marugoto.html)<br>
-> **请自行查阅、判断你乘坐的线路是否为东京都交通局运营**。<br>
+  > **请自行查阅、判断你乘坐的线路是否为东京都交通局运营**。<br>
 - 出示与都营相关的一日通票，可在指定景点、餐饮店等合作商户享受折扣或赠品。有兴趣的可以研究一下。<br>
 [沿线优惠服务](https://www.kotsu.metro.tokyo.jp/pickup_information/chikatoku/)
 #### **住宿提示**<br>
