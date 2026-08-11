@@ -1,3 +1,4 @@
+# 开始规划你的巡礼
 ## 日本旅行实用指南
 [从零开始的赴日现地live攻略](https://arisa114514.feishu.cn/wiki/QCNOwAGPxiAE1Ak39BIcRlGbnjh)<br>
 虽然是现地live攻略，但是这份攻略在签证办理、入境流程、日本交通方面等比较全面，对日本旅行有困惑的邦友可以看一下。
@@ -11,6 +12,22 @@
 巡礼点位较全，提供了可参考的交通安排和实景对比图。
 - **描绘未来巡礼**[Bilibili@橡树酱っ](https://www.bilibili.com/video/BV1E4GN6VEJm/)<br>
 巡礼点位全面，提供了详细的拍摄指南，对提升拍摄还原度具有较高参考价值。
+## MiriaGo 路线规划 Skill 辅助规划（推荐）
+[原仓库链接](https://github.com/BilyHurington/miriago-route-planner-skill)
+### 推荐使用方式
+1. 打开支持 Skill 的 ChatGPT 网页端或 App。
+2. 提供 Skill 仓库：
+   https://github.com/BilyHurington/miriago-route-planner-skill
+3. 提供本仓库：
+   https://github.com/xiaotianMC/BanG-Dream-Visit-Plan
+4. 说明希望使用 `plan-miriago-route` Skill，并选择需要的巡礼包。使用示例：
+
+        https://github.com/BilyHurington/miriago-route-planner-skill
+        请读取这个仓库并使用其中的 plan-miriago-route Skill，
+        并读取https://github.com/xiaotianMC/BanG-Dream-Visit-Plan
+        仓库中的'.sjhplan'巡礼包文件，与README.md和GUIDE.md
+        为我制作一份可导入MiriaGo 的巡礼计划。开始时先询问所有必要信息，并在每个确认节点等待我的回复。
+
 ## 巡礼包配套行程
 ### 说明
 - 参考行程采用**长住同一地点**的住宿策略，主要考虑到减少换宿频率、提升巡礼便利性。若您行李较少，或能够接受携带行李移动，可结合实际行程调整住宿安排，以降低整体交通成本。
