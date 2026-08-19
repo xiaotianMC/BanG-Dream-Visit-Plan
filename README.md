@@ -1,3 +1,4 @@
+![title](https://github.com/xiaotianMC/BanG-Dream-Visit-Plan/blob/main/res/TITLE2.png)
 # BanG Dream! 系列巡礼指南
 更新时间：2026年8月10日<br>
 创作者：麦块晓天
