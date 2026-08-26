@@ -71,9 +71,9 @@
 <tr><td>15</td><td>上野广小路—未广町</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
 <tr><td>16</td><td>白八马周边—芳林公园</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
 <tr><td>17</td><td>外神田三丁目—四丁目</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
-<tr><td>18</td><td>中央通—万世桥</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
+<tr><td>18</td><td>中央通—万世桥—秋叶原站</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
 <tr><td>19</td><td>秋叶原站电器街口周边</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
-<tr><td>20</td><td>东京晴空塔周边</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
+<tr><td>20</td><td>小梅儿童游园</td><td>√</td><td>×</td><td>×</td><td>√</td><td>-</td><td>-</td></tr>
 <tr><td>21</td><td>日本武道馆（可选）</td><td>√</td><td>√</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>22</td><td>新宿—涩谷—（可选）五反田</td><td>√</td><td>√</td><td>仅新宿&amp;涩谷</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>23</td><td>方南町（可选）</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
