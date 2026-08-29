@@ -82,9 +82,9 @@
 <tr><td>26</td><td>东京站周边—霞关站</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>27</td><td>六本木—（可选）惠比寿—中目黑</td><td>√</td><td>仅惠比寿</td><td>仅六本木&amp;中目黑</td><td>仅六本木</td><td>-</td><td>-</td></tr>
 <tr><td>28</td><td>表参道—原宿（两片区可选）</td><td>√</td><td>仅原宿</td><td>仅表参道</td><td>×</td><td>-</td><td>-</td></tr>
-<tr><td>29</td><td>羽田机场（可选）</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
-<tr><td>30</td><td>下北泽—（可选）三轩茶屋—（可选）驹泽</td><td>√</td><td>仅三轩茶屋&amp;驹泽</td><td>仅下北泽</td><td>×</td><td>-</td><td>-</td></tr>
-<tr><td>31</td><td>成城学园前—和泉多摩川</td><td>√</td><td>仅和泉多摩川</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
+<tr><td>29</td><td>下北泽—（可选）三轩茶屋—（可选）驹泽</td><td>√</td><td>仅三轩茶屋&amp;驹泽</td><td>仅下北泽</td><td>×</td><td>-</td><td>-</td></tr>
+<tr><td>30</td><td>成城学园前—和泉多摩川</td><td>√</td><td>仅和泉多摩川</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
+<tr><td>31</td><td>羽田机场（可选）</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>32</td><td>安房鸭川</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>B</td><td>逗子—叶山（描绘未来MV）</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>33</td><td>名古屋（若叶睦家）</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
