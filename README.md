@@ -1,6 +1,6 @@
 ![title](https://github.com/xiaotianMC/BanG-Dream-Visit-Plan/blob/main/res/TITLE2.png)
 # BanG Dream! 系列巡礼指南
-更新时间：2026年8月29日<br>
+更新时间：2026年8月30日<br>
 创作者：麦块晓天
 > 本巡礼包为粉丝自制内容，与 BanG Dream! 官方、版权方、动画制作公司及相关场所运营方不存在任何官方合作或授权关系。
 ## 前言
@@ -9,7 +9,7 @@
 ## 配套MiriaGo巡礼包
 巡礼包基于[MiriaGo](https://github.com/BilyHurington/MiriaGo)软件制作。
 ### 下载方式
-- 全系列巡礼包
+- [全系列巡礼包](https://github.com/xiaotianMC/BanG-Dream-Visit-Plan/releases/latest)
 - 海外补充包
 ### 说明
 - 巡礼包以「全收录」为目标，部分点位的剧中关联度或巡礼必要性较低，但为了提供更完整的巡礼参考，仍保留在巡礼包中。
