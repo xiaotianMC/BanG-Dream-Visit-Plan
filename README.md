@@ -1,6 +1,6 @@
 ![title](https://github.com/xiaotianMC/BanG-Dream-Visit-Plan/blob/main/res/TITLE2.png)
 # BanG Dream! 系列巡礼指南
-更新时间：2026年8月30日<br>
+更新时间：2026年9月3日<br>
 创作者：麦块晓天
 > 本巡礼包为粉丝自制内容，与 BanG Dream! 官方、版权方、动画制作公司及相关场所运营方不存在任何官方合作或授权关系。
 ## 前言
@@ -113,7 +113,7 @@
 | Bilibili@ホシほし | 老邦巡礼地图与实际点位资料 |
 | Bilibili@心危--- | 小豆岛交通信息与实际点位资料 |
 | Bilibili@橡树酱っ | 逗子—叶山点位的细节信息 |
-| Feej | 逗子—叶山交通信息与实地资料 |
+| Feej | MyGo!!!!!点位的细节信息 |
 | 归路十里 | 逗子—叶山交通信息与实地资料 |
 | 群青Kira | 逗子—叶山交通信息与实地资料 |
 
