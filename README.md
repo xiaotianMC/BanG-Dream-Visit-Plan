@@ -81,7 +81,7 @@
 <tr><td>25</td><td>西川口（可选）—赤羽</td><td>√</td><td>仅西川口</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>26</td><td>东京站周边—霞关站</td><td>√</td><td>×</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>27</td><td>六本木—（可选）惠比寿—中目黑</td><td>√</td><td>仅惠比寿</td><td>仅六本木&amp;中目黑</td><td>仅六本木</td><td>-</td><td>-</td></tr>
-<tr><td>28</td><td>表参道—原宿（两片区可选）</td><td>√</td><td>仅原宿</td><td>仅表参道</td><td>×</td><td>-</td><td>-</td></tr>
+<tr><td>28</td><td>原宿—表参道（两片区可选）</td><td>√</td><td>仅原宿</td><td>仅表参道</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>29</td><td>下北泽—（可选）三轩茶屋—（可选）驹泽</td><td>√</td><td>仅三轩茶屋&amp;驹泽</td><td>仅下北泽</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>30</td><td>成城学园前—和泉多摩川</td><td>√</td><td>仅和泉多摩川</td><td>√</td><td>×</td><td>-</td><td>-</td></tr>
 <tr><td>31</td><td>羽田机场（可选）</td><td>√</td><td>√</td><td>×</td><td>×</td><td>-</td><td>-</td></tr>
@@ -120,3 +120,5 @@
 ## 开始规划你的巡礼
 前往详细攻略，查看巡礼包说明、路线规划、行程安排及日本出行准备。<br>
 ### [点击查看详细攻略](./GUIDE.md)
+汇总大部分点位的开放时间、票价及其他相关信息。<br>
+### [点击查看公共设施信息](./attachments/公共设施信息.md)
