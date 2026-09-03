@@ -25,7 +25,7 @@
 
         https://github.com/BilyHurington/miriago-route-planner-skill
         请读取这个仓库并使用其中的 plan-miriago-route Skill，
-        并读取我手动上传的README、GUIDE、SKILL、.sjhplan文件
+        并读取我手动上传的 attachments 文件夹内的全部资源、.sjhplan文件
         为我制作一份可导入MiriaGo 的巡礼计划。开始时先询问所有必要信息，并在每个确认节点等待我的回复。
 
 # 巡礼包配套行程
